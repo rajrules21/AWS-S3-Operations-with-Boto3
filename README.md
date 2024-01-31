@@ -52,7 +52,7 @@ Amazon S3 is a scalable object storage service that allows you to store and retr
 
 Navigate to the individual sub-projects' directories for detailed instructions on each operation:
 
-- [Create S3 Bucket](create_bucket/README.md)
+- [Create S3 Bucket](Project 01 - Create S3 Bucket)
 - [Delete S3 Bucket](delete_bucket/README.md)
 - [List S3 Buckets in a Region](list_buckets/README.md)
 - [Upload Objects to a Bucket](upload_objects/README.md)
