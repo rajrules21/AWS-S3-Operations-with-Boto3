@@ -52,22 +52,7 @@ Amazon S3 is a scalable object storage service that allows you to store and retr
 
 Navigate to the individual sub-projects' directories for detailed instructions on each operation:
 
-## Usage
 
-Navigate to the individual sub-projects' directories for detailed instructions on each operation:
-
-- [Create S3 Bucket](Project_01_-_Create_S3_Bucket)
-- [Delete S3 Bucket](Project_02_-_Delete_S3_Bucket)
-- [List S3 Buckets in a Region](Project_03_-_List_S3_Buckets_in_a_Region)
-- [Upload Objects to a Bucket](upload_objects/README.md)
-- [Download Files from a Bucket to a Path](download_files/README.md)
-- [Check if a Bucket Exists](check_bucket_exists/README.md)
-- [Copy Objects from One Bucket to Another](copy_objects/README.md)
-- [Delete Objects from a Bucket](delete_objects/README.md)
-- [List Objects in a Bucket](list_objects/README.md)
-- [List S3 URL for All Objects in a Bucket](list_urls/README.md)
-- [Disable Public Access Block for a Bucket](disable_public_access_block/README.md)
-- [Create and Apply Bucket Policy](bucket_policy/README.md)
 
 ## Prerequisites
 
