@@ -1,6 +1,10 @@
-# AWS-S3-Operations-with-Boto3
+# AWS S3 Operations with Python and Boto3
 
-This repository contains Python scripts utilizing the Boto3 library to perform various operations on Amazon Simple Storage Service (S3). The provided scripts serve as sub-projects, each focusing on specific S3 tasks.
+This project focuses on performing various operations on Amazon Simple Storage Service (S3) using Python and the Boto3 library. The goal is to provide a set of subprojects that cover essential S3 tasks, allowing users to interact with S3 buckets and objects programmatically.
+
+## Overview
+
+Amazon S3 is a scalable object storage service that allows you to store and retrieve any amount of data. This project leverages the Boto3 library, the official Python SDK for AWS, to automate various S3 operations.
 
 ## Sub-Projects
 
@@ -40,6 +44,10 @@ This repository contains Python scripts utilizing the Boto3 library to perform v
 12. **Create and Apply Bucket Policy:**
     - Python script to create and apply a bucket policy for access control.
 
+
+## Note:- Due to constant upgrades and changes to S3 from AWS, some files may not work and will need to be modified over a period of time.
+ 
+
 ## Usage
 
 Navigate to the individual sub-projects' directories for detailed instructions on each operation:
@@ -64,6 +72,15 @@ Before using these scripts, ensure you have the following prerequisites:
 - Python installed on your system.
 - Boto3 library installed (`pip install boto3`).
 - AWS credentials configured with the necessary permissions.
+
+
+## Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/aws-s3-python-boto3.git
+   cd aws-s3-python-boto3
+
 
 ## Contributing
 
